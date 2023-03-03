@@ -7,7 +7,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 import model.X;
-import model.Usuario;
 
 public class XDAO extends DAO {
 	public XDAO() {
